@@ -8,3 +8,4 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 pyLDAvis==3.4.1
 bertopic==0.17.4
+fr-core-news-sm==3.8.0
